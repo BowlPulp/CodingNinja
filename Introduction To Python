@@ -1,0 +1,24 @@
+
+Introduction to Python
+Python is an easy-to-learn and a powerful Object-Oriented Programming language. It is a
+very high-level programming language.
+Why Python?
+1. Easy to Use: Python is comparatively an easier-to-use language as compared to
+other programming languages.
+2. Expressive Language: The syntax of Python is closer to how you would write
+pseudocode. Which makes it capable of expressing the code’s purpose better than
+many other languages.
+3. Interpreted Language: Python is an interpreted language; this means that the
+Python installation interprets and executes the code a line-at-a-time.
+4. Python is one of the most popular programming languages to be used in Web
+Development owing to the variety of Web Development platforms built over it like
+Django, Flask, etc.
+Python Download
+The very first step towards Python Programming would be to download the tools required
+to run the Python language. We will be using Python 3 for the course. You can download
+the latest version of Python 3 from https://www.python.org/downloads/
+Note:- If you are using Windows OS, then while installing Python make sure that “Add
+Python to PATH“ is checked.
+Getting an IDE for writing programs:
+You can use any IDE of your choice, however, you are recommended to use Jupyter
+Notebook. You can download it from https://jupyter.org/install
